@@ -1,6 +1,6 @@
 # profile-title: VPN Best | Scored + Filtered
 # profile-update-interval: 120
-# Date: 2026-04-12 08:58 MSK
+# Date: 2026-04-12 10:39 MSK
 # Count: 44
 # Top configs by score, max 3/country, max 2/backend
 
@@ -22,7 +22,6 @@ vless://0eca1f22-e5a1-4888-a0fa-c2345e87cf2f@in-nl-1c.ray-balance.space:443?encr
 vless://a33886c5-45e8-446c-a4b1-e6ba4804dcc8@node-nl1.rmp-inc.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eh.vk.com&fp=qq&security=reality&pbk=19Z9Syrik36ltvmS01HL2hsxcPCjlEF16wXWOozJHTU&sid=&packetEncoding=xudp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5BSNI-RU%5D%20eh.vk.com
 vless://2491c11c-b958-4553-96f7-1aaa7cad8320@150.241.92.8:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zTH3m7h5RrVagZ5WnwEEoJIpFhHFW0bcKKf68h7eMno&security=reality&sni=static.rutube.ru&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20static.rutube.ru
 trojan://187dda4498be9ac4f28db939d5940185@160.16.124.17:4380?allowInsecure=1&sni=eh.vk.com&insecure=1&type=tcp&security=tls#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%5BSNI-RU%5D%20eh.vk.com
-vless://2491c11c-b958-4553-96f7-1aaa7cad8320@193.233.75.157:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zTH3m7h5RrVagZ5WnwEEoJIpFhHFW0bcKKf68h7eMno&security=reality&sni=business.max.ru&type=tcp#%F0%9F%87%A9%F0%9F%87%AA%20Germany%2C%20Frankfurt%20am%20Main%20%7C%20%5BBL%5D
 vless://17f47d21-1837-4287-b6e7-e537274c41e4@158.160.231.132:443?encryption=none&fp=qq&mode=multi&pbk=9lryIkDCyHLzVsVJiGE4LFMuOHdzYDSTNJOFqGlpcl8&security=reality&sid=2901df419dc4e3ff&sni=static-mon.yandex.net&type=grpc&headerType=none#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B%2ACIDR%5D%20YA
 vless://b59cf03c-704f-44b0-b329-d3443e860481@84.23.54.186:9887?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=qq&sni=www.io.ozone.ru&pbk=im7-98zxWz_OGimQfeoN_Y5p1tAy8KoZCxOe2wOeWS4#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D%20VK
 vless://02384e50-3028-4f3c-8889-16d320ebf35b@51.250.126.221:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=tunnel.vk-apps.com&pbk=2Ea-rod_ya4aiuRbjC4qwzjZmXdjnjW9n_5Z4DI6M0k&sid=8f64bb95#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D%20YA
@@ -44,7 +43,8 @@ vless://TMG_1e142de9db6@94.103.0.26:443?echfq=none&fp=chrome&type=xhttp&sni=www.
 vless://0caa5c1f-9cc8-4488-8101-eee0e019c94e@max1r.skystreamgame.com:8080?encryption=none&fp=qq&mode=auto&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&security=reality&sid=6d6f13013d3e1d0c&sni=ozon.ru&type=xhttp&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20ozon.ru
 vless://11e859d6-0356-4567-a18c-42e616d614a1@max5r.skystreamgame.com:8080?security=reality&sni=ozon.ru&pbk=XBePIY00JetBf0pbmcx-Dvu8XsZ-l079GiHf93HhS0Y&sid=6d6f13013d3e1d0c&type=xhttp&path=/&mode=auto&packetEncoding=xudp&encryption=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20ozon.ru
 vless://fd2bfdd2-68eb-49b0-98ad-ed82f901edde@swiss-2.illusion-vpn.ru:52000?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=KXqoXRnGxHCnTT17cRpFRhKNj_3km3DnWEJ5L3FtSwg&sid=edd8887128ea&sni=music.yandex.ru&spx=/#%F0%9F%87%A8%F0%9F%87%AD%20Switzerland%20%5BSNI-RU%5D%20music.yandex.ru
-vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@sww.stardevs.top:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=i9B__I1XJ-MndHgrD6IZBrVSt6tlETSTe3V0dA2N_k4&security=reality&sid=f37fb7531c60780d&sni=sww.stardevs.top&spx=/&type=tcp#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%2C%20Mogi%20das%20Cruzes%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://54d371df-2c2b-40e0-b91a-3f21ba13bd53@br01.encryptapp.org:443?encryption=none&fp=qq&pbk=9wU6QMJ3oApheC5WqVO0vjuS2B4IgUb0CWXD-_rmOgE&security=reality&sni=5post-gate.x5.ru&type=grpc&headerType=none#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%2C%20S%C3%A3o%20Paulo%20%7C%20%5BBL%5D
+vless://497f686b-7a2f-40fd-bed6-8f7d0713cb18@91.195.255.188:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=1688.com&fp=chrome&pbk=MRhnJg0gXRBMGPNns26WlXztxull75NGOnJuwfNIORg&type=tcp&path=/#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%2C%20Yerevan%20%7C%20%5BBL%5D
+vless://497f686b-7a2f-40fd-bed6-8f7d0713cb18@a.amicon.app:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=1688.com&fp=chrome&pbk=MRhnJg0gXRBMGPNns26WlXztxull75NGOnJuwfNIORg&type=tcp&path=%2f#%F0%9F%87%A6%F0%9F%87%B2%20Armenia%2C%20Yerevan%20%7C%20%5BBL%5D
+vless://f00984ef-f57e-41db-9182-b25f7bc3a1e2@polands.stardevs.top:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=_t05V9DbgwyxSJOgRBhWYHt8d4Xt-qFfUXONotbUnCE&sid=f37fb7531c60780d&sni=polands.stardevs.top#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%2C%20Mogi%20das%20Cruzes%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://9c31cf36-7616-437e-9917-fd029ed9ab5f@152.53.91.244:443?flow=xtls-rprx-vision&fp=ios&pbk=E39gVJGVXKV6UXzW6TIyrz5wXZSyqzA7_5seNeQNHyg&security=reality&sid=d82fb388&sni=www.nytimes.com&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 vless://050fb692-dba7-4b69-b1fd-182c8e1c53eb@ge-6.flowersyellow.ru:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SAw2LG0CxynFfpOpX9-5PZOxlz7eQloRLSnbQh9pRUs&security=reality&sni=www.samsung.com&type=tcp#%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
