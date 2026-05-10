@@ -1,7 +1,7 @@
 # profile-title: VPN Best | Scored + Filtered
 # profile-update-interval: 120
-# Date: 2026-05-10 23:56 MSK
-# Count: 53
+# Date: 2026-05-11 01:55 MSK
+# Count: 52
 # Top configs by score, max 3/country, max 2/backend
 
 vless://3462877f-e054-43ee-b03b-d91d448ac5f0@146.185.211.132:8993?encryption=none&type=xhttp&path=%2Ffeed&host=eh.vk.com&mode=auto&extra={"xmux":{"cMaxReuseTimes":0,"maxConcurrency":"16-32","maxConnections":0,"hKeepAlivePeriod":0,"hMaxRequestTimes":"600-900","hMaxReusableSecs":"1800-3000"},"headers":{},"noGRPCHeader":false,"xPaddingBytes":"100-1000","scMaxEachPostBytes":1000000,"scMinPostsIntervalMs":30,"scStreamUpServerSecs":"20-80"}&security=reality&sni=eh.vk.com&fp=firefox&pbk=tQsJGkwVw5ejbHnYCCWFYkR0PHkOWtucIwmnvdrHYjY&sid=aabbccdd#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D%20VK
@@ -53,7 +53,6 @@ vless://75807638-6f19-0fa0-ae08-38492ee85c88@eu.active-engine.ru:52006?allowInse
 vless://3462877f-e054-43ee-b03b-d91d448ac5f0@lvx.vles.space:2554?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sun9-38.userapi.com&fp=chrome&pbk=BhrJYwEJdjXpMv6Jol7NBsdaO4kL8yh5ZRYQXNphThU#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5BSNI-RU%5D%20sun9-38.userapi.com
 vless://bf263367-bb63-4663-b4a1-34946107a72e@62.60.233.178:52000?&security=reality&flow=xtls-rprx-vision&pbk=4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA&sid=3d67b0666a5e09a0&fp=chrome&sni=ozon.ru&type=tcp&headerType=none&host=ozon.ru&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5BSNI-RU%5D%20ozon.ru
 vless://e9888b9b-658b-4f51-94f3-b8ba80e4ef91@white2meow.nethcloud.top:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=1HeKf_8KDjfzXfUi9P7WBaGStMvr96TKdUbofpkwBzQ&security=reality&sid=8bd29483ded126b4&sni=wikihow.com&type=tcp#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2C%20Sofia%20%7C%20%5BBL%5D
-vless://ffb1ce2c-d24e-4b10-a01d-009848824952@150.241.83.183:443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=AErIMCKnrRgtWObXfkkHAihmJ9K9kC_q8T_HMnJrVyg&sid=b6ec98404e99995a&sni=cdnjs.cloudflare.com&spx=/#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Toronto%20%7C%20%5BBL%5D
-vless://e6dd980c-1978-0021-b689-af2f0399366e@eep.musicperec.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.amd.com&fp=chrome&pbk=kG6zs_B1ZlZ5kjeC0WWPSz4B60vk_VeWj_WYsl2mGBw&sid=4c7d9e2f&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
-vless://dbaa10be-480b-4e3d-91cf-950dab5e6a70@tr.c2horizon.app:443?type=tcp&headerType=none&security=reality&encryption=none&sni=tr.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://07050e47-3484-4062-bd62-845968e062ad@137.175.93.121:19352?type=tcp&encryption=none&host=&path=&headerType=none&quicSecurity=none&serviceName=&security=reality&flow=&fp=chrome&insecure=1&sni=www.icloud.com&pbk=UtL7E0Gmxj3X5JdcPAutpTRKo7K2hugkR0vwk2XroUM&sid=#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Pingxiang%20%7C%20%5BBL%5D
+vless://3462877f-e054-43ee-b03b-d91d448ac5f0@ee.vles.space:8443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sun2-16.userapi.com&fp=qq&pbk=5Tz44GqhEgM6Q-kOX0WQ6voGySL5sOEeABSUsFDY8Uw&sid=21c7fb5ed34c260c#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
 hysteria2://45d76b04-6855-4efb-a08f-7d5378a6461d@154.83.95.202:51122?alpn=h3&insecure=1#%F0%9F%87%AF%F0%9F%87%B5%20Japan%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
