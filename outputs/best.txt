@@ -1,6 +1,6 @@
 # profile-title: VPN Best | Scored + Filtered
 # profile-update-interval: 120
-# Date: 2026-05-10 16:42 MSK
+# Date: 2026-05-10 17:59 MSK
 # Count: 42
 # Top configs by score, max 3/country, max 2/backend
 
@@ -44,5 +44,5 @@ vless://859cb825-0458-4af9-8f21-4ff142dc69a9@130.49.219.126:5443?type=xhttp&secu
 vless://bf263367-bb63-4663-b4a1-34946107a72e@62.60.233.178:52000?&security=reality&flow=xtls-rprx-vision&pbk=4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA&sid=3d67b0666a5e09a0&fp=chrome&sni=ozon.ru&type=tcp&headerType=none&host=ozon.ru&path=%2F#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5BSNI-RU%5D%20ozon.ru
 vless://bf263367-bb63-4663-b4a1-34946107a72e@tr-1.illusion-vpn.ru:52000?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA&sid=3d67b0666a5e09a0&sni=ozon.ru&fp=chrome&alpn=http%2525252525252525252F1.1&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5BSNI-RU%5D%20ozon.ru
 vless://dbaa10be-480b-4e3d-91cf-950dab5e6a70@bg.c2horizon.app:443?type=tcp&headerType=none&security=reality&encryption=none&sni=bg.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2C%20Sofia%20%7C%20%5BBL%5D
-vless://b6ce8a51-19b9-4979-91ba-b4298c26d5fc@ee.keepsecured.net:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=mAu8QDi3pbmMCFg9kKC-ZBIHdtnXeCuZt3VnAw6vlH4&sid=ad7dab462a323acb&sni=cdn.kwork.com#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
-vless://00a31b83-d78a-4866-9124-bf80ab961501@fl03.myxavpn.com:443?type=tcp&headerType=none&security=reality&encryption=none&sni=fl03.myxavpn.com&fp=chrome&pbk=OCLtjVdRxsou3429LRfjkDYgiAPs24TSgSeFZpChCEw&sid=d67ec5a8fc40ebea&flow=xtls-rprx-vision#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
+vless://996de477-3413-445f-bce2-822d620727f0@94.126.224.224:443?security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=hb18ZK8-pDV9MuiJ2gIrjT7QeOj0ZpZNA8YDVeis_js&sid=9ec46c298e29&sni=cloudflare.com#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
+vless://e6dd980c-1978-0021-b689-af2f0399366e@eep.musicperec.ru:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.amd.com&fp=chrome&pbk=kG6zs_B1ZlZ5kjeC0WWPSz4B60vk_VeWj_WYsl2mGBw&sid=4c7d9e2f&spx=%2F&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
