@@ -1,6 +1,6 @@
 # profile-title: VPN Best | Scored + Filtered
 # profile-update-interval: 120
-# Date: 2026-05-11 22:56 MSK
+# Date: 2026-05-12 00:24 MSK
 # Count: 49
 # Top configs by score, max 3/country, max 2/backend
 
@@ -31,7 +31,6 @@ vless://3462877f-e054-43ee-b03b-d91d448ac5f0@lvx.vles.space:52253?encryption=non
 vless://ada16414-ea27-433b-b448-f77744493deb@api.cloudconsole.ru:443?encryption=none&fp=chrome&host=vk.com&mode=auto&pbk=xejt7baNPj-ZmBgQVNW0MikXcVuLSro14gb6EyW4rAA&security=reality&sid=ab000000&sni=vk.com&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5BSNI-RU%5D%20vk.com
 vless://d01e9ce1-10e2-49a0-a4da-e9cd5a94afb4@144.172.96.106:1443?security=reality&encryption=none&pbk=EPT1FbBPh-qBqOg5bNLjLib8fsMczyqRZzTjNX5bBRE&headerType=none&fp=chrome&spx=/lLQeSy9hurByD9V&type=tcp&flow=xtls-rprx-vision&sni=max.ru&sid=30360c58e2#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20max.ru
 vless://90a3d2f9-04d4-467a-9603-63781354f915@us1server.rabstvo.shop:443?encryption=none&type=grpc&security=reality&pbk=k4Lzi9W9WA5DZNWrDfodl_8XCkegl9INee7JWlre1Rk&sid=fcafb151&sni=vk.com&serviceName=grpc&alpn=http%2F1.1&headerType=none":#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%5BSNI-RU%5D%20vk.com
-vless://5b8fb9a7-70b4-4d38-90eb-9f72e6ddf783@ru1server.rabstvo.shop:443?type=xhttp&security=reality&fp=chrome&pbk=Irvu1ScKMHoj6FBEPmYdj5RGvdpj1qwVLrQTu_OzNyY&sid=bbb76504&sni=www.max.ru&path=/update&mode=auto#%F0%9F%87%B7%F0%9F%87%BA%20Russia%2C%20Moscow%20%7C%20%5BBL%5D
 vless://39e282e0-5ae4-4ff4-8848-4b9346505c78@217.16.21.98:27472?security=reality&encryption=none&pbk=tfBYj32NRb7oc8lmVjr0nlote_rqpe_vd367HlcwxVs&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.samsung.com&sid=b0#%F0%9F%87%A6%F0%9F%87%B9%20Austria%20%5B%2ACIDR%5D%20VK
 vless://3462877f-e054-43ee-b03b-d91d448ac5f0@146.185.211.132:8992?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=cms-res-web.online.sberbank.ru&fp=chrome&pbk=eP0MKUFOcNVSVFbHT8GgBLP4LIHZFq8JuVGlCAlH1HI#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D%20VK
 vless://72d9fa25-0432-467b-9cf9-b9a917a18715@91.219.227.200:7443?type=tcp&security=reality&fp=chrome&pbk=Z84J2IelR9ch3k8VtlVhhs5ycBUlXA7wHBWcBrjqnAw&sid=7dbf7d3233971d5c&sni=sso.passport.yandex.ru#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B%2ACIDR%5D%20VK
@@ -52,4 +51,5 @@ vless://75807638-6f19-0fa0-ae08-38492ee85c88@eu.active-engine.ru:52006?allowInse
 vless://85df0806-543e-4d68-9436-f4c4dd3437cb@uk2.helper-internet.com:443?flow=xtls-rprx-vision&fp=random&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&security=reality&sid=ff776ff77be48b88&sni=uk2.helper-internet.com&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%5B%2ACIDR%5D
 vless://bf263367-bb63-4663-b4a1-34946107a72e@tr-1.illusion-vpn.ru:52000?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&pbk=4Fs4rORU_bK5Nwy9qvmVw3dAxS91bIG5cQYOmXl7zDA&sid=3d67b0666a5e09a0&sni=ozon.ru&fp=chrome&alpn=http%2525252525252525252F1.1&headerType=none#%F0%9F%87%B8%F0%9F%87%AA%20Sweden%20%5BSNI-RU%5D%20ozon.ru
 vless://d11a928e-5d3d-4256-9227-55dccf509ccf@bg.c2horizon.app:443?type=tcp&headerType=none&security=reality&encryption=none&sni=bg.c2horizon.app&fp=qq&pbk=IuvAXlAWBpeXehmEk0P-FIGTctUhny2H3UilbWWfJC0&sid=122218f4c1f172e4&flow=xtls-rprx-vision#%F0%9F%87%A7%F0%9F%87%AC%20Bulgaria%2C%20Sofia%20%7C%20%5BBL%5D
-vless://9296d79d-82ad-4f97-939b-9971ffc21f54@144.31.226.196:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=my.u1host.com&fp=chrome&pbk=Qm-rAcNxEGR8ITCJjQ5co_76cLx6bpJLMYfwlslm6AE&sid=e370424b9ff6d2bd&path=%2Fapi%2Fv1%2Fdata#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://99e50b35-0f8e-44a3-afe6-4385797f4737@185.215.187.100:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=apple.com&fp=chrome&pbk=GsKY4XpP6sr905aHvCrj0JEHhgcAD5aEcmbjyLSNjAU&sid=8ae24275272f#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Narva%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
+vless://7bd29cac-f692-48a3-88d1-505f7e55f0d0@georg.sbrf-cdn342.ru:443?type=tcp&headerType=none&security=tls&encryption=none&sni=sub.sbrf-cdn342.ru&flow=xtls-rprx-vision&insecure=0#%F0%9F%87%AC%F0%9F%87%AA%20Georgia%2C%20Tbilisi%20%7C%20%5BBL%5D
