@@ -1,7 +1,7 @@
 # profile-title: VPN Best | Scored + Filtered
 # profile-update-interval: 120
-# Date: 2026-05-31 07:24 MSK
-# Count: 44
+# Date: 2026-05-31 11:54 MSK
+# Count: 40
 # Top configs by score, max 3/country, max 2/backend
 
 vless://f9a43aa2-0599-4f16-b40c-b47952ffc78a@158.160.249.158:8443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=chrome&sni=ads.x5.ru&pbk=r5WB5FnSCt4eeBC1FJMfkWHbzsMuabo0Rc6wuAhlZUs&sid=71f0b07a98c840c7#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%5B%2ACIDR%5D%20YA
@@ -41,10 +41,6 @@ trojan://humanity@216.24.57.7:443?type=ws&security=tls&path=%2Fassignment&host=w
 vless://c911ab2b-f202-4924-b463-f74cd6bbadab@45.136.125.81:8443?encryption=none&security=reality&sni=vkvideo.ru&fp=chrome&pbk=cwcnbddHbF43U9uNvN3h7ng3x2hTib0mldaYAcz5Gmk&sid=abcd1234&type=xhttp&path=%2Fapi%2Fv1%2Fupdate&mode=auto#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20vkvideo.ru
 vless://9287f532-4150-48ff-a755-64b21e30e9c3@194.154.27.103:2026?type=tcp&headerType=none&security=reality&encryption=none&sni=api.vk.ru&fp=chrome&pbk=cH-LYLxYIolfsrn2V3wqkhw-hkVPPDW7ljE9KqcuJX4&flow=xtls-rprx-vision#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%5BSNI-RU%5D%20api.vk.ru
 vmess://eyJhZGQiOiJyZW5kZXJlci1zdHJlYW0tMS00MTEubWlycmEubm93IiwiYWlkIjoiMCIsImFscG4iOiJoMixodHRwLzEuMSIsImZwIjoiY2hyb21lIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0xLTQxMS5taXJyYS5ub3ciLCJpZCI6ImRmOWM5MzU1LWIwMmMtNGMxMi05MDlkLTBkYmViNzI1ZDUyYiIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcGkvdjEvZ3B1LXN0cmVhbS9zb2NrZXQiLCJwb3J0IjoiNDQzIiwicHMiOiLwn4ez8J+HsSBUaGUgTmV0aGVybGFuZHMgfCBbKkNJRFJdIiwic2N5IjoiYXV0byIsInNuaSI6InJlbmRlcmVyLXN0cmVhbS0xLTQxMS5taXJyYS5ub3ciLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vless://48d7e2e5-6ddc-434f-a5e5-c53b9e2f6301@109.69.218.212:443?security=reality&encryption=none&echfq=none&pbk=KfKYcURcfQ207VZCXG4g2cxltWvG2Zk7j3WCjvpa8Sg&headerType=none&fp=randomized&allowinsecure=0&type=tcp&flow=xtls-rprx-vision&sni=ns.passwd.space#%F0%9F%87%A7%F0%9F%87%AA%20Belgium%2C%20Mont-Saint-Guibert%20%7C%20%5BBL%5D
-vless://62470850-6875-4008-b773-925d7ad510a0@199.34.228.53:443?mode=auto&path=/Telegram-Zedmodeon&security=tls&alpn=h2,http/1.1&encryption=none&insecure=0&fp=chrome&type=xhttp&allowInsecure=0&sni=my.pars-cdn.ir#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://62470850-6875-4008-b773-925d7ad510a0@199.34.228.54:443?mode=auto&path=%2FTelegram-Zedmodeon&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&extra=%7B%22xPaddingBytes%22%3A%22100-1000%22%2C%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%7D&fp=chrome&type=xhttp&sni=my.pars-cdn.ir#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@193.180.209.199:443?security=reality&flow=xtls-rprx-vision&sni=github.com&type=tcp&fp=qq&pbk=K1pl5IAOi7N5MUQIvv-35fQcpxgz9uLW5Dv45a2tmRc&sid=50#%F0%9F%87%A9%F0%9F%87%B0%20Denmark%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@den.n1etwork.prostosetup.org:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=chrome&pbk=K1pl5IAOi7N5MUQIvv-35fQcpxgz9uLW5Dv45a2tmRc&sni=github.com&sid=50#%F0%9F%87%A9%F0%9F%87%B0%20Denmark%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://a87a6a94-06f2-40a7-9996-2c54f0864c8e@lol.4k4.fun:443?fp=chrome&headertype=none&pbk=cR4BZObOq9RRCH-sIU2znChPQNQHVMeNTWea4hypPRE&security=reality&sid=c3c008d793&sni=www.yahoo.com&spx=%2F&type=tcp#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Pr%C5%AFhonice%20%7C%20%5BBL%5D
 vless://68f91cc2-4ef2-46fd-932a-2d0350f682c8@panel.panel.pythash.tr:443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=MbVEbNu2iMIDhD5ziJFLKVfV0lBY7tGGpklBrwqVCyg&sid=61ad#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://b85b1e90-b5ed-0002-b433-bf9d2eca0e42@ru9.aimodelhub.top:443?flow=xtls-rprx-vision&fp=chrome&headertype=none&pbk=jwT3lcIzJQMjzBKRNsmyRGrgaa1qNfE7pQF_nAKu0GA&security=reality&sid=a73cf719b624&sni=ru9.aimodelhub.top&type=tcp#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
