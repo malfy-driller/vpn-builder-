@@ -1,6 +1,6 @@
 # profile-title: VPN Best | Scored + Filtered
 # profile-update-interval: 120
-# Date: 2026-06-06 16:57 MSK
+# Date: 2026-06-06 18:21 MSK
 # Count: 39
 # Top configs by score, max 3/country, max 2/backend
 
@@ -23,7 +23,7 @@ vless://029a4bc6-4557-4b6b-a5fc-6232e943e43b@217.149.25.106:443?type=tcp&securit
 vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@157.22.241.175:7443?encryption=none&type=grpc&security=reality&mode=gun&serviceName=xyz&fp=firefox&sni=colorlib.com&pbk=F2MKDw5CCtP1oXIej2EgNxB01k3eyNu7tKCFfucgnRA#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
 trojan://ldcowwKly0@66.81.247.176:2087?mode=packet-up&path=/&security=tls&alpn=h3,h2,http/1.1&extra={"xPaddingBytes":"100-1000"}&insecure=0&host=x-cdn.ana-company.com&fp=chrome&type=xhttp&allowInsecure=0&sni=x-cdn.ana-company.com#%F0%9F%87%B9%F0%9F%87%B7%20Turkey%20%5B%2ACIDR%5D
 vless://f4e98990-648f-448a-9264-64040b413811@cdn14.cloud-vk.com:8443?security=reality&encryption=none&pbk=Ml-LF4yKs-OUHfQuCyLKcqMioe92UB8tRC_Vs-xKrR8&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=6602554a2aa16bd1#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20rbc.ru
-hysteria2://1c65bee4-bc54-364c-8988-6a5912fda891@150.129.10.140:443?sni=u723829us614.ccgfw.online&alpn=h3&mport=30000-32000&hopinterval=30s#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@146.75.117.91:80?mode=auto&path=%2FTignal&security=&encryption=none&host=tignaltofansv5.global.ssl.fastly.net&type=xhttp#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
 vless://fc965ad9-bdd7-4815-ad71-b39ec5972dc1@216.24.57.7:443?encryption=none&fp=chrome&host=octopusss4.com&path=%2Ftsghdws&security=tls&sni=octopusss4.com&type=ws#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@80.87.200.175:443?encryption=none&type=grpc&security=tls&mode=gun&serviceName=vk&sni=ru-vk-2.1001notes.ru#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
 vless://1014818b-5c5c-46b1-98fe-eaf8d5eba642@ru-vk-2.1001notes.ru:443?type=grpc&security=tls&fp=chrome&sni=ru-vk-2.1001notes.ru&mode=multi&serviceName=vk#%F0%9F%87%AB%F0%9F%87%B7%20France%20%5B%2ACIDR%5D
@@ -40,6 +40,6 @@ vless://f1a44ae4-20f9-4dd7-b60e-b4f2acecfdb4@l1-2.l-itx.info:443?type=xhttp&secu
 vless://f4e98990-648f-448a-9264-64040b413811@cdn8.cloud-vk.com:8443?security=reality&encryption=none&pbk=eOSTlPCwxYoFWH74DVgLUX_dJb9wmHL33MMU5lxMwCE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=d20b72a7#%F0%9F%87%B0%F0%9F%87%BF%20Kazakhstan%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20rbc.ru
 vless://f4e98990-648f-448a-9264-64040b413811@cdn6.cloud-vk.com:8443?security=reality&encryption=none&pbk=7zsja5u9_tXdfEDIHNPdhIwyoawk7WUFLcthOwFt10k&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=rbc.ru&sid=99fc#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%7C%20%F0%9F%8C%90%20%5BSNI-RU%5D%20rbc.ru
 vmess://eyJ2IjoiMiIsInBzIjoi8J+Hs/Cfh7EgVGhlIE5ldGhlcmxhbmRzIHwgWypDSURSXSIsImFkZCI6IjkzLjkzLjg4LjIyIiwicG9ydCI6IjQ0MyIsImlkIjoiZGY5YzkzNTUtYjAyYy00YzEyLTkwOWQtMGRiZWI3MjVkNTJiIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6InJlbmRlcmVyLXN0cmVhbS0xLTQxMS5taXJyYS5ub3ciLCJwYXRoIjoiL2FwaS92MS9ncHUtc3RyZWFtL3NvY2tldCIsInRscyI6InRscyIsInNuaSI6IiIsImFscG4iOiIiLCJmcCI6IiJ9
-vless://96eec36e-2c44-5b09-898e-6f0f0526e57f@151.101.128.223:80?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&host=shangulin.global.ssl.fastly.net&mode=auto&path=%2Flogin&security=none&type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Gravelines%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://394f6981-a782-4779-9a85-e6cf22935d93@95.173.193.211:8443?type=tcp&security=tls&encryption=none&sni=syd-au-01.fromblancwithlove.com#%F0%9F%87%A6%F0%9F%87%BA%20Australia%2C%20Sydney%20%7C%20%5BBL%5D
 vless://2c36bf33-1ec0-45e8-84af-84eeccd56ca5@45.152.67.34:47488?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%87%AD%F0%9F%87%B0%20Hong%20Kong%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://91a3f712-c4e0-42a0-9475-bdd551a06e73@top4182166920.mwscdn.ru:443?type=xhttp&headerType=none&security=tls&encryption=none&sni=top4182166920.mwscdn.ru&fp=chrome&path=%2Fxhttppath&insecure=0#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
+vless://c2888cd0-33c8-43d8-8b10-cdb4bb03adff@171.22.133.199:9443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=qq&pbk=xQS78g8-09dYL-bk0yMWpSBcQ7SVPsr14BmZCfjbSxs&sid=d70805220eead3ab&sni=www.ya.ru#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
