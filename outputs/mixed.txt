@@ -1,6 +1,6 @@
 # profile-title: VPN Mixed | Balanced White+Mobile+Black
 # profile-update-interval: 120
-# Date: 2026-06-13 00:54 MSK
+# Date: 2026-06-13 02:23 MSK
 # Count: 83
 # 50% white, 30% mobile, 20% black
 
