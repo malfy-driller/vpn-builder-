@@ -1,7 +1,7 @@
 # profile-title: VPN Best | Scored + Filtered
 # profile-update-interval: 120
-# Date: 2026-06-27 22:37 MSK
-# Count: 29
+# Date: 2026-06-28 00:10 MSK
+# Count: 30
 # Top configs by score, max 3/country, max 2/backend
 
 vless://ae0959f1-f25a-43d0-9c88-be1672641fc3@37.139.34.124:443?encryption=none&flow=xtls-rprx-vision&type=raw&headerType=none&security=reality&fp=firefox&pbk=FOVEr4SzLDQGUn1yY8-Y_C5mIV6WBJL2sTZKQvK83z4&sni=ads.x5.ru#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%5B%2ACIDR%5D%20VK
@@ -30,6 +30,7 @@ vless://3db635e4-f9ec-42d6-8aba-e23df8b0e6da@cf1.466688.xyz:8443?encryption=none
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@185.75.135.220:443/?insecure=1&sni=fta.fontanvpn.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 hysteria2://00dcd873-9211-4d61-ad35-87999906e5c8@fta.fontanvpn.com:443/?insecure=1&sni=fta.fontanvpn.com#%F0%9F%87%AB%F0%9F%87%AE%20Finland%20%5B%2ACIDR%5D
 vless://8553ae90-2a81-493a-b050-8ee79c8dbe4c@pol6.odavpn.online:443?type=xhttp&security=reality&fp=qq&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&sid=aabbccdd&sni=www.kinopoisk.ru&path=/tDjkeuxyQPUDqF8wT2#%F0%9F%87%B5%F0%9F%87%B1%20Poland%20%5BSNI-RU%5D%20www.kinopoisk.ru
-vless://94bcd9a9-33a9-40e4-a6fd-05e30db5b457@20.70.160.45:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=safari&pbk=140jRwI3SEyJezoVv7iFt2VEZOfDVu7CmPblFi2Q6ik&sid=5c333a77#%F0%9F%87%A6%F0%9F%87%BA%20Australia%2C%20Sydney%20%7C%20%5BBL%5D
-vless://0b08b1c4-342a-4992-ac5f-5b9eff2327a0@20.151.233.69:443?type=tcp&headerType=none&security=reality&encryption=none&sni=www.cloudflare.com&fp=firefox&pbk=dalyPgxW_YMUf1O3cgNWc-3XDeShAzU43307V4rBr3s&sid=64597fca&flow=xtls-rprx-vision#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Toronto%20%7C%20%5BBL%5D
-vless://3283529b-3bc4-4e15-803a-7d5751a3df07@92.63.99.34:50054?fp=firefox&pbk=UC7-PeUa2Hc_qJqN6gad454qrfqjM1x1CCX5qxGyuj0&security=reality&sid=878d777ed4005cb4&sni=rubr3.cheburnetnastalgia1998.com&type=grpc#%F0%9F%87%AB%F0%9F%87%AE%20Finland%2C%20Helsinki%20%7C%20%5BBL%5D
+vless://60300afa-3366-4ae3-959a-7b50438acebb@ru-dc.wequ.host:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=ru-dc.wequ.host&fp=edge&pbk=JH077KoB3PWwc8qs7D2SPRWLDS7xKE4JbjDzEoSVvzQ&sid=37164c3e&type=tcp&headerType=none#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%5BBL%5D
+vless://0b08b1c4-342a-4992-ac5f-5b9eff2327a0@20.151.233.69:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=safari&pbk=dalyPgxW_YMUf1O3cgNWc-3XDeShAzU43307V4rBr3s&sid=64597fca#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Toronto%20%7C%20%5BBL%5D
+vless://5a28d935-e940-46fe-bc44-229b126e052a@130.94.59.236:443?security=reality&encryption=none&pbk=s0lbZ5BO3ctZjE8DzsXkNL0NvLl6FgLG6532NQzXigo&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c56d4f1c#%F0%9F%87%A8%F0%9F%87%B3%20China%2C%20Beijing%20%7C%20%5BBL%5D
+vless://60300afa-3366-4ae3-959a-7b50438acebb@us.wequ.ickly.co.uk:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=us.wequ.ickly.co.uk&fp=edge&pbk=jwuASfyOO9LfLGk-_QIXynIR88ObUyREysdA476L5ho&sid=0bd1ecc1&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
