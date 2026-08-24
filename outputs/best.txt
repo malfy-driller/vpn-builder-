@@ -1,6 +1,6 @@
 # profile-title: VPN Best | Scored + Filtered
 # profile-update-interval: 120
-# Date: 2026-08-24 06:08 MSK
+# Date: 2026-08-24 07:51 MSK
 # Count: 17
 # Top configs by score, max 3/country, max 2/backend
 
