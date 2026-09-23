@@ -1,14 +1,13 @@
 # profile-title: VPN Best | Scored + Filtered
 # profile-update-interval: 120
-# Date: 2026-09-23 16:31 MSK
-# Count: 8
+# Date: 2026-09-23 21:20 MSK
+# Count: 7
 # Top configs by score, max 3/country, max 2/backend
 
 vless://365de9e9-ba29-4819-af2d-766f9638e3be@dostavitos.stroymatdv.cc:443?encryption=none&security=tls&type=ws&sni=dostavitos.stroymatdv.cc&alpn=http%2F1.1&path=%2Fe9ws&fp=android#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D%20VK
-vless://8057eabc-921d-0001-9acb-80ccc6b48379@104.171.138.229:443?encryption=none&mode=multi&pbk=aK5um9qlbrjpXgpI4H9n05FBmWAvKUbmLm7iAj9K9mw&security=reality&serviceName=Piska&sni=cdn.mafioznik.xyz&type=grpc&fp=chrome#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%AB%F0%9F%87%AE%20%F0%9F%87%B8%F0%9F%87%A8%20%7C%20%5B%2ACIDR%5D
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:24443?insecure=1&sni=hy.quattro-tech.ru&alpn=h3#%F0%9F%87%B1%F0%9F%87%BB%20Latvia%20%5B%2ACIDR%5D
 hysteria2://3f63c86c-ac4a-4900-85cf-4fedf93c2ca5@91.240.86.70:22443?insecure=0&sni=hy.quattro-tech.ru#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?insecure=1&alpn=h3#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%5B%2ACIDR%5D
-vless://f495298f-2bdb-4fd8-9ac9-5dd33d1b482a@alda2.thewalkingded.life:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=alda2.thewalkingded.life&pbk=FHz8UphJsAywB1sIO6G1zEsSyxhkWifNN364wJE6bQU&sid=79b420e34e67b356&spx=%2F&fp=firefox#%F0%9F%87%A6%F0%9F%87%B1%20Albania%2C%20Tirana%20%7C%20%F0%9F%8C%90%20%7C%20%5BBL%5D
-vless://2ea95ec3-6b09-470e-952a-ebb171b0d666@34.186.193.91:443?encryption=none&type=raw&headerType=none&security=reality&pbk=0dSYzX_uvVr-YmiONeKxPt7TdFkaFeYopYfjobxxEC4&sni=www.cloudflare.com&sid=341ec000a90f1ced&fp=chrome#%F0%9F%87%A8%F0%9F%87%A6%20Canada%2C%20Montreal%20%7C%20%5BBL%5D
-vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@cepchik.nxxzxaw.beer:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=cepchik.nxxzxaw.beer&pbk=WU5baXUzRH9BceiYI8MPBmDMEloTFImx2vvE5uh1yjM&sid=f19e02a2fb573c18&spx=%2F&fp=edge#%F0%9F%87%A8%F0%9F%87%BF%20Czechia%2C%20Ma%C5%A1%C5%A5ov%20%7C%20%5BBL%5D
+hysteria2://f317b5d6-d399-4d3d-a051-89d674ae953c@msk.frkn.org:443?security=tls&sni=msk.frkn.org&alpn=h3&insecure=0#%F0%9F%87%B7%F0%9F%87%BA%20Russia%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
+vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@sfert.mervi.icu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=sfert.mervi.icu&pbk=65er4qqKykhPqDu-01d2-rKHffO86Q-NnlYAQ28hDF0&sid=d3a788d813cb2050&fp=android#%F0%9F%87%A6%F0%9F%87%B9%20Austria%2C%20Vienna%20%7C%20%5BBL%5D
+vless://e9c2ed7f-79ab-40a8-8910-24468f5da712@35.199.90.53:443?encryption=none&type=raw&headerType=none&security=reality&pbk=0WXz3PJQnr-KprrwiO5BlKVRdqA4ZS6U5jGHc_aeJnw&sni=www.cloudflare.com&sid=4b414f69a06e1e81&fp=edge#%F0%9F%87%A7%F0%9F%87%B7%20Brazil%2C%20S%C3%A3o%20Paulo%20%7C%20%5BBL%5D
+vless://9bbd487f-8f84-4ad7-b897-681c3f7d95dc@verfg.mervi.icu:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=verfg.mervi.icu&pbk=EX0PHZtMYrA54TR5ItNHqfi9__pqUqbwt91haA6zXC4&sid=eb73bd22d6eda206&fp=android#%F0%9F%87%AA%F0%9F%87%AA%20Estonia%2C%20Tallinn%20%7C%20%5BBL%5D
